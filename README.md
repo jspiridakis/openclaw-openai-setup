@@ -1,2 +1,2 @@
 # openclaw-openai-setup
- OpenClaw – Clean OpenAI-Only Setup (NO ANTHROPIC)
+Deterministic OpenClaw setup guide using OpenAI only (no Anthropic)
